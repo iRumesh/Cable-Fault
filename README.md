@@ -1,4 +1,4 @@
-# Cable-Fault
+# Cable-Fault-Detection
 Cable Fault Simulation using Ohm's Law
 
 1. Cable_Fault_Detection_v1 </br>
