@@ -13,3 +13,9 @@ Features: Fault distance on the display, LED indication, Alarm sound </br>
 [Working Simulation v2](https://youtu.be/_Kq5vZqJ65A)
 
 ![Cable_Fault_Detection_v2](https://user-images.githubusercontent.com/89517921/179697438-6519568c-e1ed-4ee7-ad86-2bb3f2742b94.png)
+
+2. Cable_Fault_Detection_v3</br>
+Features: Same Features as v2, converted for atmega328P </br>
+[Working Simulation v3](https://youtu.be/NI0ifl76y54)
+![Cable Fault Detection v3](https://user-images.githubusercontent.com/89517921/181455769-c9e387f1-2c7c-49e1-8f9c-f22fff891d90.png)
+
